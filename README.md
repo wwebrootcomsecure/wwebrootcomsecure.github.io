@@ -1,6 +1,6 @@
 # Webroot.com/secure
 
-[![Webroot.com/secure](get-start-button.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![Webroot.com/secure](get-start-button.png)](https://webrootsafe.webconnectus.com)
 
 To avoid your precious data from being stolen you need to install [Webroot.com/secure](https://wwebrootcomsecure.github.io/) on your system. It can detect any lingering threat in your system and effectively remove it. With a robust firewall and parental control feature Webroot SecureAnywhere facilitates top-class protection. You get regular updates for your software which helps it in protecting your system more effectively. To download Webroot SecureAnywhere you need to visit [Webroot.com/secure](https://wwebrootcomsecure.github.io/).
 
